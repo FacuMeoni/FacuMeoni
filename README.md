@@ -20,5 +20,7 @@ About me
 # No dudes en contactarme!
 
 Correo : meonifacu@gmail.com.
+
 Discord : faacu#1983.
+
 Linkedin : www.linkedin.com/in/facundo-meoni-a3b954261
