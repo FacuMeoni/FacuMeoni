@@ -6,16 +6,27 @@ About me
 # ¿Que tecnologías uso?
 
 · JavaScript
+
 · React.js
+
 · Express.js
+
 · PostgreSQL
+
 · Redux
+
 · React
+
 · Vite
+
 · Git
+
 · Sequelize
+
 · HTML
+
 · CSS
+
 
 # No dudes en contactarme!
 
