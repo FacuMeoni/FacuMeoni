@@ -1,6 +1,5 @@
 # Hola, soy Facundo!
 
-# About me
  Tengo 20 años, soy programador full stack. Descubri la programacion gracias a mi padre, y desde ahi soy un gran aficionado de la programación. Me encanta investigar, aprender y enfrentar nuevos desafíos.
 
 # ¿Que tecnologías uso?
