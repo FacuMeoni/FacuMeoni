@@ -29,8 +29,8 @@
 
 # No dudes en contactarme!
 
-Correo : meonifacu@gmail.com.
+📩Correo : meonifacu@gmail.com.
 
-Discord : faacu#1983.
+📞Discord : faacu#1983.
 
-Linkedin : www.linkedin.com/in/facundo-meoni-a3b954261
+📄Linkedin : www.linkedin.com/in/facundo-meoni-a3b954261
