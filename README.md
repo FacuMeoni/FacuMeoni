@@ -33,4 +33,4 @@
 
 📞 Discord : faacu#1983.
 
-📄 Linkedin : www.linkedin.com/in/facundo-meoni-a3b954261
+📄 Linkedin : https://www.linkedin.com/in/facundo-meoni-fullstack/
